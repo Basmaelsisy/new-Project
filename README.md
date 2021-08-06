@@ -1,2 +1,0 @@
-# Weather-Journal App Project
-
